@@ -33,7 +33,7 @@
         {{ name }}
       </template>
     </nav-menu-item>
-    <a href="https://github.com/uvacoder/mkdown2" target="_blank" rel="noreferrer noopener">
+    <a href="https://github.com/uvacoder/abc-mdtool" target="_blank" rel="noreferrer noopener">
       <v-mdi name="mdi-github"></v-mdi>
     </a>
   </div>
